@@ -1,0 +1,3 @@
+/Users/alan/Downloads/外卖平台0.0（总）/cmake-build-debug/CMakeFiles/NUIST_Takeout_Platform.dir
+/Users/alan/Downloads/外卖平台0.0（总）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Downloads/外卖平台0.0（总）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
